@@ -39,7 +39,7 @@ consentNotice:
     privacyPolicy:
         name: Πολιτική Απορρήτου
 decline: Απόρριπτω
-ok: OK
+ok: Συμφωνώ
 poweredBy: Υποστηρίζεται από το Klaro!
 purposeItem:
     service: ''
