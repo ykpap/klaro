@@ -1,6 +1,6 @@
-acceptAll: ''
+acceptAll: 'Αποδοχή όλων'
 acceptAll_en: Accept all
-acceptSelected: ''
+acceptSelected: 'Αποδοχή επιλεγμένων'
 acceptSelected_en: Accept selected
 service:
     disableAll:
